@@ -1,7 +1,7 @@
 # Poker
 
 1. Download python file "RandomHandGenerator(1).py" and save to a new folder "Texas Hold'em Generator" on your desktop.
-2. Download csv file "PokerHandData1.csv" and save in "Texas Hold'em Generator". folder, along side "RandomHandGenerator(1).py".
+2. Download csv file "PokerHandData1.csv" and save in "Texas Hold'em Generator" folder, along side "RandomHandGenerator(1).py".
 3. Download latest version of module, "pandas".
 4. Download latest version of module, "numpy".
 5. Run python file "RandomHandGenerator(1).py"
