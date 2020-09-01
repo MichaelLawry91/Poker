@@ -10,7 +10,9 @@ from pandas import DataFrame
 import random
 
 l = 0
-while l < 1:
+
+Num_of_Hands = int(input("Input Number of Hands to be generated"))
+while l < Num_of_Hands:
     cards_value = ['A', 'K', 'Q', 'J', 'T', '9', '8', '7', '6', '5', '4', '3', '2']
 
     card_val = []
